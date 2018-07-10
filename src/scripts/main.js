@@ -1,7 +1,11 @@
 const $ = require("jquery")
-const dom = require("./dom")
+const buildTheDom = require("./dom")
 const eventListeners = require("./eventListeners")
 
+buildTheDom.createInputField()
+buildTheDom.createDashboard()
 $("#input-field").hide()
 $("#new-show").on("click", function(){$("#input-field").toggle()})
 $("#save-show").on("click", eventListeners.saveTvShow)
+$("#list-of-shows").on("click", ".delete", eventListeners.deleteShow)
+$("#list-of-shows").keydown(eventListeners.saveEditedShow)

@@ -17,7 +17,7 @@ input {
 .oneShow {
     border: 1px solid #003366;
     width: 15rem;
-    height: 9rem;
+    height: auto;
     padding: 1rem;
     border-radius: 1em;
     background-color: var(--main-color);

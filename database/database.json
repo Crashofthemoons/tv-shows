@@ -1,25 +1,25 @@
 {
   "shows": [
     {
-      "id": 1,
-      "show": "Black Mirror",
-      "plotSummary": "Technology takes over humanity",
-      "numberOfSeasons": "4",
-      "watched": "false"
-    },
-    {
       "id": 2,
       "show": "Star Trek, The Next Generation",
       "plotSummary": "To Explore Space and Stuff",
       "numberOfSeasons": "12",
-      "watched": "true"
+      "watched": "false"
     },
     {
-      "show": "The Office",
-      "plotSummary": "Office Things",
-      "numberOfSeasons": "12",
+      "show": "",
+      "plotSummary": "Picard and Data and Warf and Geordi",
+      "numberOfSeasons": "7",
       "watched": "false",
-      "id": 3
+      "id": 5
+    },
+    {
+      "show": "",
+      "plotSummary": "the show about nothing",
+      "numberOfSeasons": "9",
+      "watched": "false",
+      "id": 6
     }
   ]
 }
