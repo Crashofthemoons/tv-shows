@@ -1,0 +1,25 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "show": "Black Mirror",
+      "plotSummary": "Technology takes over humanity",
+      "numberOfSeasons": "4",
+      "watched": "false"
+    },
+    {
+      "id": 2,
+      "show": "Star Trek, The Next Generation",
+      "plotSummary": "To Explore Space and Stuff",
+      "numberOfSeasons": "12",
+      "watched": "true"
+    },
+    {
+      "show": "The Office",
+      "plotSummary": "Office Things",
+      "numberOfSeasons": "12",
+      "watched": "false",
+      "id": 3
+    }
+  ]
+}
